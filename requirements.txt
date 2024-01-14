@@ -1,0 +1,4 @@
+Django == 4.1
+conda-forge::djangorestframework==3.14.0
+conda-forge::django-filter==23.5
+conda-forge::markdown==3.5.2
